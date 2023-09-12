@@ -1,2 +1,9 @@
 # Project: Student Performance Indicators
-### This project analyzes how students' performance is affected by variables such as Gender, Ethnicity, Parental Education, 
+### Background:
+This project analyzes how student performance is affected by variables such as Gender, Ethnicity, Parental Education, 
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* Exploratory Data Analysis (EDA)
