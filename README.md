@@ -12,4 +12,6 @@ This project analyzes how student performance is affected by variables such as G
 * Python
 * Pycharm
 * Git
-* Pandas, jupyter
+* Pandas
+* Matplotlib
+* Seaborn
