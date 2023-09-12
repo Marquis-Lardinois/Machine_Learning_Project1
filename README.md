@@ -15,3 +15,6 @@ This project analyzes how student performance is affected by variables such as G
 * Pandas
 * Matplotlib
 * Seaborn
+
+### Data Source
+* Kaggle - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
