@@ -18,3 +18,7 @@ This project analyzes how student performance is affected by variables such as G
 
 ### Data Source
 * Kaggle - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+
+## Exploratory Data Analysis in Jupyter
+EDA_STUDENT_PERFORMANCE.ipynb
+![img.png](img.png)
