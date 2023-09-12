@@ -7,3 +7,9 @@ This project analyzes how student performance is affected by variables such as G
 * Data Visualization
 * Predictive Modeling
 * Exploratory Data Analysis (EDA)
+
+### Technologies Used
+* Python
+* Pycharm
+* Git
+* Pandas, jupyter
