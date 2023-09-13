@@ -26,3 +26,15 @@ This project analyzes how student performance is affected by variables such as G
 ## Exploratory Data Analysis in Jupyter
 EDA_STUDENT_PERFORMANCE.ipynb
 ![img.png](img.png)
+![img_1.png](img_1.png)
+
+## Model Training
+link 
+#### Training a machine learning model to predict a student's math score based on:
+  - Gender
+  - Ethnicity	
+  - Parents' Level of Education
+  - Student Participation in a Discounted Lunch Program
+  - Test Preparation Course Attendance
+  - Reading Scores 
+  - Writing Scores
