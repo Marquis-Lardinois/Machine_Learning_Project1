@@ -3,4 +3,7 @@ numpy
 seaborn
 matplotlib
 plotly
--e .
+scikit-learn
+xgboost
+catboost
+#-e .
