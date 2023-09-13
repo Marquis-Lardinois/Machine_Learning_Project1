@@ -14,3 +14,15 @@ class DataIngestionConfig:
     test_data_path: str = os.path.join('artifacts', 'test.csv')
     raw_data_path: str = os.path.join('artifacts', 'raw.csv')
 
+class DataIngestion:
+    def __init__(self):
+        self.ingestion_config = DataIngestionConfig()
+
+    def initiate_data_ingestion(self):
+        logging.info("Entering data ingestion or component")
+        try:
+            df=pd.read_csv('data/stud.csv')
+            logging.info('Read CSV as df')
+        except:
+            pass
+
