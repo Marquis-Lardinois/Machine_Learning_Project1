@@ -1,6 +1,7 @@
 # Project: Student Performance Indicators
 ### Background:
-This project analyzes how student performance is affected by variables such as Gender, Ethnicity, Parental Education, and test preparation.  
+This project analyzes how student performance is affected by variables such as Gender, Ethnicity, Parental Education, and test preparation. I then created a Machine
+Learning model to predict a student's overall math score based on the variables above. 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
@@ -38,3 +39,9 @@ link
   - Test Preparation Course Attendance
   - Reading Scores 
   - Writing Scores
+![img_4.png](img_4.png)
+![img_3.png](img_3.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
