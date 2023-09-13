@@ -23,6 +23,11 @@ class DataIngestion:
         try:
             df=pd.read_csv('data/stud.csv')
             logging.info('Read CSV as df')
+
+            os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
+
+            logging.info("Train test split initiated")
+            train_set,test_set=train_test_split(df,test_size=0.2,random_state=42)
         except:
             pass
 
